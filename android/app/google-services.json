@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "87407553218",
+    "project_id": "juventus-27272",
+    "storage_bucket": "juventus-27272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87407553218:android:54183648f3bd6754b2295b",
+        "android_client_info": {
+          "package_name": "JuventusWolrd.Job"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87407553218-plm4mosgj9i7ji6rqrmn282udka9jai4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "JuventusWolrd.Job",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "87407553218-t9s8g21ghfdbb6lh8fetp7utsqipajjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtULXB2qlH_6uUAgwr9ShLWnBiElojzdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87407553218-t9s8g21ghfdbb6lh8fetp7utsqipajjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87407553218-mhjugs9fp3dqrkcq5t84cvmg81p4ikjc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "JuventusWolrd.Job"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

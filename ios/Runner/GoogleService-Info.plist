@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>87407553218-mhjugs9fp3dqrkcq5t84cvmg81p4ikjc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.87407553218-mhjugs9fp3dqrkcq5t84cvmg81p4ikjc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>87407553218-plm4mosgj9i7ji6rqrmn282udka9jai4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBEtPfIbFzuQuCDVPM3yqNewtpnNxRl9o0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>87407553218</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>JuventusWolrd.Job</string>
+	<key>PROJECT_ID</key>
+	<string>juventus-27272</string>
+	<key>STORAGE_BUCKET</key>
+	<string>juventus-27272.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:87407553218:ios:91241ca4780fb45fb2295b</string>
+</dict>
+</plist>
